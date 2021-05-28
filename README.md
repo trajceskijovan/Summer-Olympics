@@ -10,9 +10,9 @@ ALL_MEDALIST_file   = Data / 'Summer Olympic medalists 1896 to 2008 - ALL MEDALI
 
 # Presentation
 
-You can download the presentation deck by clicking [here.](Presentation/Summer%20Olympics_compressed.pdf)
+You can download the presentation deck by clicking [here.](Summer%20Olympics_compressed.pdf)
 
 
 # Outcome
 
-![](img/summary.png)
+![](summary.png)
